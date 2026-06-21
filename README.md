@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mutmainx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=stars,prs)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mutmainx&theme=dark&hide_border=false&hide_total_contributions=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mutmainx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=C)
+
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MutmainX) 
